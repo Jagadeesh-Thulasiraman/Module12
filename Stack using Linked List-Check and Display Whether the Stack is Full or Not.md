@@ -28,7 +28,7 @@ To write a Python program that:
    - Print "Stack is full" if the stack is full.
    - Otherwise, print "Stack is not full".
 
-## 📝 Program
+##  Program
 ```python
 from queue import LifoQueue 
 stack = LifoQueue(maxsize=4) 
