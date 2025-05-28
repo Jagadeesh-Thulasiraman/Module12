@@ -1,4 +1,4 @@
-# 🔁 Queue using Linked List: Display Front and Rear Elements of a Queue
+#  Queue using Linked List: Display Front and Rear Elements of a Queue
 
 ##  Aim
 
